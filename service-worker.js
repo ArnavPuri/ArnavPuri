@@ -31,7 +31,7 @@ importScripts("scripts/sw/sw-toolbox.js","scripts/sw/runtime-caching.js");
 
 
 /* eslint-disable quotes, comma-spacing */
-var PrecacheConfig = [["basic.html","e62dbac94d58b754a6fbbf84cf4644ef"],["index.html","40e349bb06edcc4e45953a22ce0c5e7d"],["manifest.json","30d402e280a04e6fe03b32da34c70890"],["scripts/main.min.js","34a00bde0733369f65ba9b3c8f750784"],["scripts/sw/runtime-caching.js","e3e34dcb62b5d62453b9215961585488"],["scripts/sw/sw-toolbox.js","e7e54a466864d42dcccc8c3f80a91d1f"],["styles/main.css","b21781ecf1bf7209ea6dde54d9482126"]];
+var PrecacheConfig = [["basic.html","e62dbac94d58b754a6fbbf84cf4644ef"],["index.html","c8572ab863087f03e5ab667386322f3c"],["manifest.json","30d402e280a04e6fe03b32da34c70890"],["scripts/main.min.js","34a00bde0733369f65ba9b3c8f750784"],["scripts/sw/runtime-caching.js","e3e34dcb62b5d62453b9215961585488"],["scripts/sw/sw-toolbox.js","e7e54a466864d42dcccc8c3f80a91d1f"],["styles/main.css","b21781ecf1bf7209ea6dde54d9482126"]];
 /* eslint-enable quotes, comma-spacing */
 var CacheNamePrefix = 'sw-precache-v1-web-starter-kit-' + (self.registration ? self.registration.scope : '') + '-';
 
