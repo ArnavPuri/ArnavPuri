@@ -1,4 +1,4 @@
 ## Hi, I am Arnav! 👋
-I am a Full Stack Developer based in Mumbai, India 🇮🇳.  I enjoy programming 👨‍💻 and teaching 👨‍🏫.
+I am a Full Stack Developer based in Mumbai, India 🇮🇳.  I enjoy programming 👨‍💻.
 
-[![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavPuri)](https://github.com/anuraghazra/github-readme-stats)
+Currently working on [WhiteboardFox](https://whiteboardfox.com/), converting code to pixels!
